@@ -72,6 +72,6 @@ app.post("/discharge", (req, res) => {
 
 // port number listening
 
-app.listen(3000, (req, res) => {
+app.listen(8080, (req, res) => {
   console.log("App is running on port 3000");
 });
